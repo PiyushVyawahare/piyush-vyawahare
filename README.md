@@ -1,6 +1,6 @@
 # Piyush Vyawahare — Portfolio
 
-Personal portfolio website built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
+Personal portfolio website built with Next.js 16, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Tech Stack
 
