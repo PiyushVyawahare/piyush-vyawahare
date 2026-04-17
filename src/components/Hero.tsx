@@ -185,7 +185,7 @@ export default function Hero() {
               className='relative rounded-2xl overflow-hidden border border-white/10 bg-surface'
               style={{ width: "190px", height: "190px" }}
             >
-              <Image src='/piyush.png' alt='Piyush Vyawahare' fill className='object-cover object-top' priority />
+              <Image src='/piyush.PNG' alt='Piyush Vyawahare' fill className='object-cover object-top' priority />
             </div>
             <motion.div
               initial={{ opacity: 0, scale: 0 }}
